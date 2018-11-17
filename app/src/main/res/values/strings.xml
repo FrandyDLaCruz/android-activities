@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginToProfileActivity</string>
+    <string name="activity_login_text_view_name">Name</string>
+    <string name="activity_login_text_view_password">Password</string>
+    <string name="activity_login_text_view_github">GitHub</string>
+    <string name="activity_login_button_login">Login</string>
+    <string name="activity_login_error_dialog_title_message">Authentication failed</string>
+    <string name="activity_login_error_dialog_body_message">Wrong Name or Password</string>
+    <string name="activity_profile_text_view_repos">Repos</string>
+    <string name="activity_profile_text_view_commits">Commits</string>
+    <string name="activity_profile_text_view_stars">Stars</string>
+    <string name="activity_profile_button_share">Share</string>
+</resources>
